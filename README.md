@@ -45,4 +45,3 @@ celebal-signup-form/
 └── index.html
 ```
 
-**Happy Coding!** 🎉
