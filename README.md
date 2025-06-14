@@ -2,21 +2,21 @@
 
 A modern, responsive signup form built with React, TypeScript, and Tailwind CSS.
 
-## 📋 Form Fields
+##  Form Fields
 - First Name & Last Name
 - Email Address
 - Password (with strength requirements)
 - Confirm Password
 - Phone Number
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React** 
 - **TypeScript** 
 - **Vite**
 - **Tailwind CSS**
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 celebal-signup-form/
